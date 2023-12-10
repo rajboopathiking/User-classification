@@ -10,3 +10,4 @@
 
 Data is Education data. 365datascience is educational institude. 365datascience provide beneficial courses and excercise,exams etc...i also had course in 365datascience . its awesome platform and gamified platform. it help me to understand more.we are going to get insights from data. then made a predictive modeling. (get foresights from data)
 
+![image](https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
