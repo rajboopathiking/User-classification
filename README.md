@@ -38,13 +38,16 @@ Data is Education data. 365datascience is educational institude. 365datascience 
    *  or
    *      jupyter notebook
          
-Conclusion:
+### Conclusion:
 
-create document report mention ur insight and explanation
-add deployment link
-add api dcumentation
-make a presentation - in pdf/ppt/doc format
-practice and submit and take it to your client or stackholder
-story telling
-add others recommentations - ideas about another models etc..
-mentioned things are help you so much
+   * create document report mention ur insight and explanation
+   * add deployment link
+   * add api dcumentation
+   * make a presentation - in pdf/ppt/doc format
+   * practice and submit and take it to your client or stackholder
+   * story telling
+   * add others recommentations - ideas about another models etc..
+   * mentioned things are help you so much
+
+### Things To Remember:
+  * Hardwork never Fails
