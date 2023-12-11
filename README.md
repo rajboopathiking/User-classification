@@ -28,6 +28,7 @@ Data is Education data. 365datascience is educational institude. 365datascience 
          git clone https://github.com/rajboopathiking/-project-files-machine-learning-for-user-classification/
    ### reqirements:
            pip install -r requirements.txt
+   * source code in repository
 ### Tools:
    * jupyter 
    *      pin install jupyter
