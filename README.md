@@ -29,7 +29,11 @@ Data is Education data. 365datascience is educational institude. 365datascience 
    ### reqirements:
            pip install -r requirements.txt
 ### Tools:
-   * jupyter #
+   * jupyter 
+   *      pin install jupyter
+   *  launch jupyter lab
    *      jupyter lab
+   *  or
+   *      jupyter notebook
          
    
