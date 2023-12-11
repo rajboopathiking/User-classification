@@ -22,3 +22,10 @@ Data is Education data. 365datascience is educational institude. 365datascience 
    * Feature Engineering
    * Building Models & Evaluation,Tuning
    * Deployment
+
+### Project:
+   ### git
+         git clone https://github.com/rajboopathiking/-project-files-machine-learning-for-user-classification/
+   * Preprocessing module present in the directory
+         
+   
