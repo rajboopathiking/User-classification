@@ -6,7 +6,7 @@
     Programming Language: python
     Field of study : Education 
     techniques : machine learning,artificial intelligence
-    tools : juyter
+    tools : jupyter
 
 Data is Education data. 365datascience is educational institude. 365datascience provide beneficial courses and excercise,exams etc...i also had course in 365datascience . its awesome platform and gamified platform. it help me to understand more.we are going to get insights from data. then made a predictive modeling. (get foresights from data)
 
@@ -25,7 +25,7 @@ Data is Education data. 365datascience is educational institude. 365datascience 
 
 ### Project:
    ### git
-         git clone https://github.com/rajboopathiking/-project-files-machine-learning-for-user-classification/
+    git clone https://github.com/rajboopathiking/-project-files-machine-learning-for-user-classification/
    ### reqirements:
            pip install -r requirements.txt
 
